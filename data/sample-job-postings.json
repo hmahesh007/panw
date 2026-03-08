@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sample-cloud-001",
+    "roleKey": "cloud-engineer",
+    "title": "Junior Cloud Engineer",
+    "company": "Northstar Labs",
+    "requiredSkills": ["aws", "docker", "linux", "terraform"],
+    "preferredSkills": ["kubernetes", "monitoring", "ci/cd"]
+  },
+  {
+    "id": "sample-backend-001",
+    "roleKey": "backend-engineer",
+    "title": "Associate Backend Engineer",
+    "company": "Atlas Software",
+    "requiredSkills": ["python", "rest api", "git", "testing"],
+    "preferredSkills": ["docker", "postgresql", "ci/cd"]
+  },
+  {
+    "id": "sample-data-001",
+    "roleKey": "data-engineer",
+    "title": "Junior Data Engineer",
+    "company": "Orbit Data",
+    "requiredSkills": ["python", "sql", "etl", "airflow"],
+    "preferredSkills": ["dbt", "aws", "monitoring"]
+  }
+]
