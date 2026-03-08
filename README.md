@@ -2,6 +2,7 @@
 
 SkillBridge is an AI-assisted MVP that helps students and early-career professionals understand the gap between their current skills and a target technical role. It accepts either pasted resume / project-summary text or a public GitHub profile URL, extracts technical skills, compares them against a local role dataset, calculates readiness, generates a learning roadmap, and creates interview questions.
 
+https://github.com/hmahesh007/panw
 ---
 
 ## Candidate Summary
